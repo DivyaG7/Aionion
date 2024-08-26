@@ -30,7 +30,6 @@ const AboutUs = () => {
               investor interests and maintain market integrity</p>
           </div>
         </div>
-
         
       </div>
     </>

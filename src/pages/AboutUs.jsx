@@ -29,7 +29,6 @@ const AboutUs = () => {
             <p className='text-center'>Aionion Wealth operates under the strict regulatory framework set by SEBI to protect
               investor interests and maintain market integrity</p>
           </div>
-          
         </div>
 
         
